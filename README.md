@@ -12,7 +12,7 @@
 ```
 POST /createBook
 ```
-```json
+```
 {
   "title" : String, // alphanumeric only
   "author" : String, // alphanumeric only
